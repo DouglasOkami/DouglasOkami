@@ -1,5 +1,5 @@
 ## Olá , Eu sou o Douglas Ferreira
-- 🔭 Estou buscando estágios na aréas de desenvolvedor de Swift ou de C#
+- 🔭 Estou buscando estágios na aréas de desenvolvedor de Swift, de C# ou Web Designer
 - 🌱 estudando linguagens de C# e Swift
 - 😄 Pronouns: ele/dele
 <div>
