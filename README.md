@@ -1,6 +1,6 @@
 ## Olá , Eu sou o Douglas Ferreira
 - 🔭 Estou buscando estágios na aréas de desenvolvedor de Swift, de C# ou Web Designer
-- 🌱 estudando linguagens de C# e Swift
+- 🌱 estudando linguagens de C# , Swift e JavaScript
 - 😄 Pronouns: ele/dele
 <div>
   <a href="https://github.com/DouglasOkami">
