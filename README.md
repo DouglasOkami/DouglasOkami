@@ -2,10 +2,10 @@
 - 🔭 Estou buscando estágios na aréas de desenvolvedor de Swift, de C# , Web Designer e Front-End
 - 🌱 estudando linguagens de C# , Swift e JavaScript
 - 😄 Pronouns: ele/dele
-<div>
+<div align="center">
   <a href="https://github.com/DouglasOkami">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DouglasOkami&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasOkami&layout=compact&langs_count=7&theme=merko"/>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DouglasOkami&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasOkami&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
