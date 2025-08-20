@@ -14,10 +14,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urielsf&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-JAVASCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">  
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-  <img align="right" alt="DouglasFerreira" height="130" width="140" src="https://media.giphy.com/media/jT7D2goVKTVmghwai6/giphy.gif?cid=790b761144ecba3d81a8764f4aecc4e81ffb851266b8a5bd&rid=giphy.gif&ct=g">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
   
   ##
