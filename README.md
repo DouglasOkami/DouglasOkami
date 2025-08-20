@@ -1,6 +1,6 @@
-## Olá , Eu sou o Douglas Ferreira
+## Olá , Eu sou o Uriel Ferreira
 - 🔭 Estou buscando estágios na aréas de desenvolvedor de Angular e Front-End
-- 🌱 estudando linguagens de C# , Swift e JavaScript
+- 🌱 estudando linguagens React Web, Typescript
 - 😄 Pronouns: ele/dele
 <div align="center">
   <a href="https://github.com/DouglasOkami">
