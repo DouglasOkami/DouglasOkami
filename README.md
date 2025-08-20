@@ -1,7 +1,13 @@
 ## Olá , Eu sou o Uriel Ferreira
-- 🔭 Estou buscando estágios na aréas de desenvolvedor de Angular e Front-End
-- 🌱 estudando linguagens React Web, Typescript
-- 😄 Pronouns: ele/dele
+💼 Atualmente atuo como Consultor de Vendas na Volnorte Peças e Serviços, no setor de linha pesada de caminhões, peças e serviços.
+
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (Cruzeiro do Sul Virtual), em busca de expandir meus conhecimentos em tecnologia e desenvolvimento.
+
+💡 Interesso-me por programação, automações, SaaS, React, TypeScript e Git, com foco em criar soluções práticas e escaláveis.
+
+🚀 Estou em constante evolução, unindo minha experiência comercial com a área de tecnologia para desenvolver uma carreira sólida e versátil.
+
+🤝 Acredito em aprendizado contínuo, colaboração e crescimento pessoal e profissional.
 <div align="center">
   <a href="https://github.com/DouglasOkami">
       <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DouglasOkami&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
